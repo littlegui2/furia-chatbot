@@ -24,7 +24,6 @@ Um chatbot interativo feito em React + Tailwind para fãs da FURIA se conectarem
 - React
 - TailwindCSS
 - JavaScript (useState, eventos)
-- Deploy opcional com Vercel/Netlify
 
 ## 📦 Como rodar localmente
 
