@@ -1,6 +1,6 @@
 # 🐆 FURIA Chatbot – Torcida Interativa
 
-Um chatbot interativo feito em React + Tailwind para fãs da FURIA se conectarem com o time de maneira divertida.
+Um chatbot interativo feito em React + Tailwind para fãs da FURIA se conectarem com o time de maneira divertida. O Challenge 1 proposto pela Furia
 
 ## 💬 Funcionalidades
 
