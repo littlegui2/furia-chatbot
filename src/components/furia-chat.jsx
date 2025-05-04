@@ -30,7 +30,7 @@ export default function FuriaChat() {
       inputNormalized.includes("time") ||
       inputNormalized.includes("jogadores")
     ) {
-      botText = "O elenco atual é: KSCERATO, yuurih, arT, chelo e FalleN.";
+      botText = "O elenco atual é: KSCERATO, yuurih, YEKINDAR, molodoy e FalleN.";
     } else if (
       inputNormalized.includes("camisa") ||
       inputNormalized.includes("produto") ||
@@ -42,7 +42,7 @@ export default function FuriaChat() {
       inputNormalized.includes("igl") ||
       inputNormalized.includes("capitao")
     ) {
-      botText = "O IGL atual da FURIA é o arT.";
+      botText = 'Atualmente, o IGL da FURIA é Gabriel "FalleN" Toledo, que assumiu a posição após a chegada de arT. No entanto, arT também foi testado como IGL durante um período de adaptação, e a equipe está experimentando novas ideias para melhorar o desempenho do time.';
     } else if (
       inputNormalized.includes("titulo") ||
       inputNormalized.includes("conquista") ||
@@ -65,7 +65,7 @@ export default function FuriaChat() {
       inputNormalized.includes("tecnico") ||
       inputNormalized.includes("coach")
     ) {
-      botText = "O técnico atual da FURIA é guerri, uma peça fundamental da equipe!";
+      botText = "O técnico atual da FURIA é SIDDE, uma peça fundamental da equipe!";
     } else if (
       inputNormalized.includes("redes sociais") ||
       inputNormalized.includes("instagram") ||
