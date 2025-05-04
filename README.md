@@ -15,9 +15,7 @@ Um chatbot interativo feito em React + Tailwind para fãs da FURIA se conectarem
 
 ## 🚀 Demonstração
 
-![Screenshot do Chatbot](./screenshot.png)
-
-📺 **Vídeo de apresentação:** [link do vídeo aqui]
+📺 **Vídeo de apresentação:** [(https://youtu.be/A0opzsKm_No?si=pwGsFCegWE5r0_eP)]
 
 ## 🛠️ Tecnologias
 
